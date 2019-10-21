@@ -1,0 +1,14 @@
+{
+    "name": "acheng1183852727/cnblogs",
+    "description": "a project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yacheng",
+            "email": "1183852727@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
